@@ -1,0 +1,28 @@
+h1{
+    color: rgb(247, 93, 5);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+h2{
+    color: rgb(42, 132, 235);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(34, 116, 2);
+    text-align: center;
+}
+ul{
+    color: red;
+    font-size: 150%;
+}
+form{
+    color: rgb(201, 67, 5);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+input{
+    background-color: rgb(1, 7, 7);
+    color: aliceblue;
+}
